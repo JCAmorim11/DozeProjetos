@@ -5,3 +5,4 @@
  - Projeto 2º: Guess the Number (Usuario)
  - Projeto 3º: Guess the Number (Computador)
  - Projeto 4º: Hangman (Jogo da forca)
+ - Projeto 5º: Tic-Tac-Toe (Jogo da Velha)
